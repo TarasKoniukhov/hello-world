@@ -62,3 +62,7 @@ Median sessions per user ÷ Expected frequency
 
 3. Value 
 % of users who say they’d miss the report if it disappeared
+
+
+https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-maturity-levels
+
