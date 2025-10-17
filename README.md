@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=HuZCzrayYZM
 
 https://data-goblins.com/power-bi/report-requirements
 ROUTE 3: “WHAT QUESTIONS ARE WE TRYING TO ANSWER?”
-TALKING TO BUSINESS USERS & ITERATING, TOGETHER
+TALKING TO BUSINESS USERS & ITERATING, TOGETHER, CO-CREATION-WORKSHOPS, PROTOTYPES
 Who will use this report? (Not number of individuals, but group of them, different group can have different needs)
 operational level of these report, what people objective with respect to this report, how they organized, tech-savvy or text savvy
 
