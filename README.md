@@ -11,3 +11,41 @@ User Story
 What question are we answering?
 What problem are we solving?
 Someone needs X so that they can do Y 
+
+
+Kurt Buhler
+https://www.youtube.com/watch?v=HuZCzrayYZM
+
+https://data-goblins.com/power-bi/report-requirements
+ROUTE 3: “WHAT QUESTIONS ARE WE TRYING TO ANSWER?”
+TALKING TO BUSINESS USERS & ITERATING, TOGETHER
+Who will use this report? (Not number of individuals, but group of them, different group can have different needs)
+operational level of these report, what people objective with respect to this report, how they organized, tech-savvy or text savvy
+
+How they will use this report - what action do they take, what they need to take actions
+how they are wasting time, why solution is not working for them
+
+
+What question or business problems are we trying to address?
+How will a report bring value? Valuable 
+
+
+Steve Campbell
+https://www.youtube.com/watch?v=Jx6uvvT2QMI
+Audience (Executive, Managers, Analyst/Information Worker)
+Business Question
+Strategic Goal
+Business Goal
+KPI Definition
+Required Fields
+Level of Details
+Visual
+Filter By
+
+Cole Nussbaumer Knaflic
+Identify your audience and why they'll care
+Visualize clearly 
+Eliminate clutter / declutter
+Focus Attention
+Tell a story
+
