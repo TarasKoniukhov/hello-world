@@ -49,3 +49,16 @@ Eliminate clutter / declutter
 Focus Attention
 Tell a story
 
+
+Bas Domen
+💡 The three truly meaningful KPIs for report success
+
+1. Adoption rate 
+How many of the people who should use it actually do? Active users ÷ Intended users
+
+2. Engagement 
+Are users returning as often as their role requires?
+Median sessions per user ÷ Expected frequency
+
+3. Value 
+% of users who say they’d miss the report if it disappeared
